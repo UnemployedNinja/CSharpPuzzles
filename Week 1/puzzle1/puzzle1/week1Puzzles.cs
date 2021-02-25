@@ -121,5 +121,27 @@ namespace puzzle1
             }
         }
         */
+
+
+        // Another example is
+        /*
+        public class Kata
+        {
+            public static string SpinWords(string sentence)
+            {
+                string[] words = sentence.Split(' ');
+                for (var i = 0; i < words.Count(); i++)
+                {
+                    if (words[i].Length >= 5)
+                    {
+                        words[i] = new string(words[i].Reverse().ToArray());
+                    }
+                }
+
+                return string.Join(" ", words);
+
+            }
+        }
+        */
     }
 }
