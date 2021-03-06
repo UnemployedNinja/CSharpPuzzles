@@ -21,6 +21,7 @@ namespace Basics
             bool isWorking = false;
             var test = false;
 
+            Console.WriteLine("Data Types");
             Console.WriteLine(count);
             Console.WriteLine(totalPrice);
             Console.WriteLine(character);
@@ -29,6 +30,7 @@ namespace Basics
             Console.WriteLine(test);
 
             // Size
+            Console.WriteLine("\nSizes");
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
             Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
@@ -38,7 +40,7 @@ namespace Basics
             // Constants
             const float Pi = 3.14f;
             // Pi = 1; // Does not compile!! Can not change constants 
-            
+
             // Type Conversion
             byte b = 1;
             int i = b;
@@ -48,12 +50,27 @@ namespace Basics
             // byte b = i;
 
             // Cast
+            Console.WriteLine("\nCasting");
             int num = 1000;
             byte bit = (byte)num;
-            Console.WriteLine(bit);
+            Console.WriteLine(bit);  // 232 Loses data
 
             // Use the Convert Class to change data types
-            
+
+
+            // Operators
+            int c = 5;
+            int d = 10;
+
+            Console.WriteLine("\nOperators");
+            Console.WriteLine(c + d);
+            Console.WriteLine(c - d);
+            Console.WriteLine(c * d);
+            Console.WriteLine(c / d);
+            Console.WriteLine(c % d);
+
+
+
 
         }
     }
