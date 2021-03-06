@@ -6,7 +6,12 @@ namespace Basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            byte number = 255;
+
+            number += 1;  // Becomes 0
+
+            Console.WriteLine("Number: " + number);
+
         }
     }
 }
