@@ -1,0 +1,13 @@
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.exe
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.deps.json
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.runtimeconfig.json
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.runtimeconfig.dev.json
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.dll
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.pdb
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.csprojAssemblyReference.cache
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.AssemblyInfo.cs
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.dll
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.pdb
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\numberGuessingGame\numberGuessingGame\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.genruntimeconfig.cache

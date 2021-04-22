@@ -70,8 +70,6 @@ namespace Basics
             Console.WriteLine(c % d);
 
 
-
-
         }
     }
 }
