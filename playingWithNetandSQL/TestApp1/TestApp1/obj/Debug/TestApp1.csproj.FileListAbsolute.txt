@@ -1,0 +1,7 @@
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\obj\Debug\TestApp1.csprojAssemblyReference.cache
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+C:\Users\Unemployed_Ninja\Documents\Puzzles in C#\playingWithNetandSQL\TestApp1\TestApp1\obj\Debug\TestApp1.pdb
